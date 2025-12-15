@@ -1,0 +1,649 @@
+{
+  "toolscriptVersion": "1.0.0",
+  "version": "43.0.9",
+  "pageUuid": "756d9ed4-d83f-11ef-821a-f713c60f25c8",
+  "appTemplate": {
+    "appThemeId": "custom",
+    "preloadedAppJavaScript": "",
+    "pageCodeFolders": {
+      "object": {
+        "sheetURL": {
+          "array": []
+        },
+        "sheetName": {
+          "array": []
+        },
+        "copyCol": {
+          "array": []
+        },
+        "startRow": {
+          "array": []
+        },
+        "dropArea": {
+          "array": []
+        },
+        "exported2x": {
+          "array": []
+        },
+        "htmlViewer": {
+          "array": []
+        },
+        "htmlContent": {
+          "array": []
+        },
+        "htmlComponent": {
+          "array": []
+        },
+        "htmlx": {
+          "array": []
+        },
+        "htmlComponent1": {
+          "array": []
+        },
+        "htmlContentState": {
+          "array": []
+        },
+        "query2": {
+          "array": []
+        },
+        "form": {
+          "array": []
+        },
+        "addRemove": {
+          "array": []
+        },
+        "fetch": {
+          "array": []
+        },
+        "load": {
+          "array": []
+        },
+        "fetchHTMLContent": {
+          "array": []
+        },
+        "WeeklyTemplate": {
+          "array": []
+        },
+        "newObj": {
+          "array": []
+        },
+        "hero_default": {
+          "array": []
+        },
+        "hero_image_code": {
+          "array": []
+        },
+        "select1": {
+          "array": []
+        },
+        "hero_image": {
+          "array": []
+        },
+        "listSheets": {
+          "array": []
+        },
+        "dropdownSheets": {
+          "array": []
+        },
+        "sheetArray": {
+          "array": []
+        },
+        "sheetsArray": {
+          "array": []
+        },
+        "getSheetsList": {
+          "array": []
+        },
+        "getSheetsData": {
+          "array": []
+        },
+        "arrayVar": {
+          "array": []
+        },
+        "replaceHero": {
+          "array": []
+        },
+        "heroSelect": {
+          "array": []
+        },
+        "updateImage": {
+          "array": []
+        },
+        "getImageInfo": {
+          "array": []
+        },
+        "checkForPreview": {
+          "array": []
+        },
+        "replacePreview": {
+          "array": []
+        },
+        "feature_image_left": {
+          "array": []
+        },
+        "feature_image_right": {
+          "array": []
+        },
+        "populateHero": {
+          "array": []
+        },
+        "populateCopy": {
+          "array": []
+        },
+        "populateLegal": {
+          "array": []
+        },
+        "compiled": {
+          "array": []
+        },
+        "featureObj": {
+          "array": []
+        },
+        "featureSelect": {
+          "array": []
+        },
+        "insertFeature": {
+          "array": []
+        },
+        "booklineSelect": {
+          "array": []
+        },
+        "featureRadio": {
+          "array": []
+        },
+        "imgHeightContentState": {
+          "array": []
+        },
+        "imgHeight": {
+          "array": []
+        },
+        "updateHero": {
+          "array": []
+        },
+        "imgHeightState": {
+          "array": []
+        },
+        "updateHeroImage": {
+          "array": []
+        },
+        "getFTImageInfo": {
+          "array": []
+        },
+        "updateFeatureImage": {
+          "array": []
+        },
+        "hero_dual_wasnow": {
+          "array": []
+        },
+        "hero_dual_was_now": {
+          "array": []
+        },
+        "populateFeature": {
+          "array": []
+        },
+        "ftLeftObj": {
+          "array": []
+        },
+        "ftRightObj": {
+          "array": []
+        },
+        "featureImage": {
+          "array": []
+        },
+        "featureImage2": {
+          "array": []
+        },
+        "featureImage3": {
+          "array": []
+        },
+        "featureGroup1": {
+          "array": []
+        },
+        "featureGroup2": {
+          "array": []
+        },
+        "featureGroup3": {
+          "array": []
+        },
+        "startRow1": {
+          "array": []
+        },
+        "booklineSelect1": {
+          "array": []
+        },
+        "featureImage1": {
+          "array": []
+        },
+        "featureRadio1": {
+          "array": []
+        },
+        "featureLabel": {
+          "array": []
+        },
+        "featureLabel1": {
+          "array": []
+        },
+        "featureLabel2": {
+          "array": []
+        },
+        "featureLabel3": {
+          "array": []
+        },
+        "blog_feature_horizontal": {
+          "array": []
+        },
+        "exportHTML": {
+          "array": []
+        },
+        "saveButton": {
+          "array": []
+        },
+        "ftInsert1": {
+          "array": []
+        },
+        "ftInsert2": {
+          "array": []
+        },
+        "ftInsert3": {
+          "array": []
+        },
+        "insertFeatureNew": {
+          "array": []
+        },
+        "featureCount": {
+          "array": []
+        },
+        "containerCountSelect": {
+          "array": []
+        },
+        "addFeature": {
+          "array": []
+        },
+        "logoLockup1": {
+          "array": []
+        },
+        "lockupGroup1": {
+          "array": []
+        },
+        "sheetsURL": {
+          "array": []
+        },
+        "sheetSelect": {
+          "array": []
+        },
+        "parseSheetNames": {
+          "array": []
+        },
+        "mainForm": {
+          "array": []
+        },
+        "copyColumn": {
+          "array": []
+        },
+        "resetTemplate": {
+          "array": []
+        },
+        "heroDrop": {
+          "array": []
+        },
+        "removeUnusedBooklines": {
+          "array": []
+        },
+        "adjustHeroDefaultTemplate": {
+          "array": []
+        },
+        "removeSubcopySection": {
+          "array": []
+        },
+        "featureSelect1": {
+          "array": []
+        },
+        "exported2xft1": {
+          "array": []
+        },
+        "frStartRow1": {
+          "array": []
+        },
+        "ftStartRow1": {
+          "array": []
+        },
+        "exported2xFt1": {
+          "array": []
+        },
+        "logoSwitch1": {
+          "array": []
+        },
+        "logoLockupImage1": {
+          "array": []
+        },
+        "exported2xLogo1": {
+          "array": []
+        },
+        "ftUndo1": {
+          "array": []
+        },
+        "featureImgHeightState": {
+          "array": []
+        },
+        "getFTImageInfoNew": {
+          "array": []
+        },
+        "handleFeatureInsertion": {
+          "array": []
+        },
+        "populateFeatureNew": {
+          "array": []
+        },
+        "updateFeatureImageNew": {
+          "array": []
+        },
+        "booklineSelect2": {
+          "array": []
+        },
+        "heroDefaultObj": {
+          "array": []
+        },
+        "heroDualWasNowObj": {
+          "array": []
+        },
+        "heroDualObj": {
+          "array": []
+        },
+        "updateBooklineSelect": {
+          "array": []
+        },
+        "heroDualSwitch": {
+          "array": []
+        },
+        "updatePrices": {
+          "array": []
+        },
+        "extractPrices": {
+          "array": []
+        },
+        "updateHTML": {
+          "array": []
+        },
+        "pdateAdditionalImages": {
+          "array": []
+        },
+        "updateAdditionalImages": {
+          "array": []
+        },
+        "feature_logoLockup": {
+          "array": []
+        },
+        "insertLogoLockup": {
+          "array": []
+        },
+        "getLogoLockupImageInfo": {
+          "array": []
+        },
+        "updateLogoLockupImage": {
+          "array": []
+        },
+        "matchTest": {
+          "array": []
+        },
+        "spacer2": {
+          "array": []
+        },
+        "resetForm": {
+          "array": []
+        },
+        "clearForm": {
+          "array": []
+        },
+        "resetAll": {
+          "array": []
+        },
+        "upperCallout": {
+          "array": []
+        },
+        "preprocessHtmlContent": {
+          "array": []
+        },
+        "logoLockupImgHeightState": {
+          "array": []
+        },
+        "runFeatureInsertion": {
+          "array": []
+        },
+        "featureImgHeightState1": {
+          "array": []
+        },
+        "featureImgHeightState2": {
+          "array": []
+        },
+        "featureImgHeightState3": {
+          "array": []
+        },
+        "logoLockupImgHeightState1": {
+          "array": []
+        },
+        "logoLockupImgHeightState2": {
+          "array": []
+        },
+        "logoLockupImgHeightState3": {
+          "array": []
+        },
+        "featureGroups": {
+          "array": []
+        },
+        "featureGroups2": {
+          "array": []
+        },
+        "getFTImageInfo2": {
+          "array": []
+        },
+        "getFTImageInfo3": {
+          "array": []
+        },
+        "getLogoLockupImageInfo2": {
+          "array": []
+        },
+        "getLogoLockupImageInfo3": {
+          "array": []
+        },
+        "insertFeature2": {
+          "array": []
+        },
+        "insertFeature3": {
+          "array": []
+        },
+        "insertLogoLockup2": {
+          "array": []
+        },
+        "insertLogoLockup3": {
+          "array": []
+        },
+        "updateLogoLockupImage2": {
+          "array": []
+        },
+        "updateLogoLockupImage3": {
+          "array": []
+        },
+        "populateFeature2": {
+          "array": []
+        },
+        "populateFeature3": {
+          "array": []
+        },
+        "updateFeatureImage2": {
+          "array": []
+        },
+        "updateFeatureImage3": {
+          "array": []
+        },
+        "runFeatureInsertion2": {
+          "array": []
+        },
+        "runFeatureInsertion3": {
+          "array": []
+        },
+        "undoFeature1": {
+          "array": []
+        },
+        "undoFeature2": {
+          "array": []
+        },
+        "undoFeature3": {
+          "array": []
+        },
+        "spacer65": {
+          "array": []
+        },
+        "spacer6": {
+          "array": []
+        },
+        "spacer5": {
+          "array": []
+        },
+        "replaceTopperWithText": {
+          "array": []
+        },
+        "DailyDeals": {
+          "array": []
+        },
+        "KSPVIPCallout": {
+          "array": []
+        },
+        "KoboPlusCallout": {
+          "array": []
+        },
+        "Audiobook": {
+          "array": []
+        },
+        "newImageHeroQuery": {
+          "array": []
+        },
+        "ftBlog": {
+          "array": []
+        },
+        "ftBlogObj": {
+          "array": []
+        },
+        "removeFeature": {
+          "array": []
+        },
+        "calloutSelect": {
+          "array": []
+        },
+        "calloutLocation": {
+          "array": []
+        },
+        "insertCallout": {
+          "array": []
+        },
+        "calloutInsert": {
+          "array": []
+        },
+        "calloutDelete": {
+          "array": []
+        },
+        "removeCallout": {
+          "array": []
+        },
+        "mainF": {
+          "array": []
+        },
+        "mainContainer": {
+          "array": []
+        },
+        "blah": {
+          "array": []
+        },
+        "mainFormOg": {
+          "array": []
+        },
+        "mainSubmit": {
+          "array": []
+        },
+        "calloutForm": {
+          "array": []
+        },
+        "calloutTitle": {
+          "array": []
+        },
+        "dcrSelect1": {
+          "array": []
+        },
+        "calloutAdd": {
+          "array": []
+        },
+        "calloutRemove": {
+          "array": []
+        },
+        "devicebookline": {
+          "array": []
+        },
+        "deviceBookline": {
+          "array": []
+        },
+        "bookSpotlight": {
+          "array": []
+        },
+        "VIPSale": {
+          "array": []
+        },
+        "backToTop": {
+          "array": []
+        },
+        "bookSpotlightObj": {
+          "array": []
+        },
+        "VIPObj": {
+          "array": []
+        },
+        "vipSale": {
+          "array": []
+        },
+        "device1ImgState": {
+          "array": []
+        },
+        "device2ImgState": {
+          "array": []
+        },
+        "device3ImgState": {
+          "array": []
+        },
+        "deviceDrop1": {
+          "array": []
+        },
+        "vipSaleObj": {
+          "array": []
+        },
+        "contentDiscoverySwitch": {
+          "array": []
+        },
+        "vipSaleSwitch": {
+          "array": []
+        },
+        "vipMemberSale": {
+          "array": []
+        },
+        "insertAdditionalContent": {
+          "array": []
+        },
+        "deviceBooklineLocation": {
+          "array": []
+        },
+        "devicebookline2": {
+          "array": []
+        },
+        "deviceBooklineLabel": {
+          "array": []
+        },
+        "insertDeviceBookline": {
+          "array": []
+        },
+        "exported2xDevice1": {
+          "array": []
+        }
+      }
+    },
+    "appThemeName": "Custom app theme",
+    "version": "3.300.0",
+    "experimentalDataTabEnabled": true
+  }
+}
