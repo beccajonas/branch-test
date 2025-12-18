@@ -643,6 +643,7 @@
       }
     },
     "appThemeName": "Custom app theme",
+    "shortlink": "casemanager",
     "version": "3.300.0",
     "experimentalDataTabEnabled": true
   }
